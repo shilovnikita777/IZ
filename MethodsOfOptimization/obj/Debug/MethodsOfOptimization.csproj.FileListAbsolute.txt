@@ -1,0 +1,11 @@
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.csprojAssemblyReference.cache
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.Dichotomy.resources
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.Properties.Resources.resources
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.csproj.GenerateResource.cache
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.csproj.CoreCompileInputs.cache
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\bin\Debug\MethodsOfOptimization.exe.config
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\bin\Debug\MethodsOfOptimization.exe
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\bin\Debug\MethodsOfOptimization.pdb
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.exe
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.pdb
+D:\projects\MethodsOfOptimization\MethodsOfOptimization\obj\Debug\MethodsOfOptimization.Result.resources
